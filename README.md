@@ -2,6 +2,9 @@
 
 A simple and interactive **Task Manager** web application built using HTML, CSS, and JavaScript as part of the Web Development curriculum.
 
+## 🔗 Live Demo
+* **Live Application:** [View Task Manager on Vercel](https://task-manager-gamma-three-34.vercel.app)
+
 ## 🚀 Features
 * **Dynamic Task Creation:** Add new tasks easily using input fields and DOM manipulation.
 * **Task Status Management:** Mark tasks as completed or delete them as needed with responsive event listeners.
